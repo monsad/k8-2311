@@ -1,0 +1,5 @@
+mirrors:
+"localhost:5050":
+   endpoint:
+   - http://k3d-test-2311-registry:5050
+
